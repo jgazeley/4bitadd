@@ -1,6 +1,6 @@
 /*
- * File: combined_counter_manual_override_PDmonitor_changeOnly.c
- * Author: Your Name
+ * File: count.c
+ * 
  *
  * Description:
  * This program runs on an ATmega328P (16 MHz clock) and implements two modes:
